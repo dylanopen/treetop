@@ -1,0 +1,11 @@
+[package]
+name = "treetop"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy-trait-query = "0.17.1"
+bevy_app = "0.17.2"
+bevy_ecs = { version = "0.17.2" }
+crossterm = "0.29.0"
+lazy_static = "1.5.0"
